@@ -21,26 +21,29 @@ Se enfoca en construir una arquitectura modular basada en microservicios utiliza
 
 ## 🧰 Tecnologías utilizadas
 
+> 🔎 **Haz clic en cualquier tecnología para ver su documentación oficial.**
+
 + ### 🔧 Backend
-![Java](https://img.shields.io/badge/Java%2021-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Web](https://img.shields.io/badge/Spring%20Web-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Lombok](https://img.shields.io/badge/Lombok-CA0C19?style=for-the-badge&logo=lombok&logoColor=white)
-![Microservicios](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microgenetics&logoColor=white)
+[![Java](https://img.shields.io/badge/Java%2021-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/21/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/guides/gs/spring-boot/)
+[![Spring Web](https://img.shields.io/badge/Spring%20Web-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html)
+[![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-data-jpa)
+[![Lombok](https://img.shields.io/badge/Lombok-CA0C19?style=for-the-badge&logo=lombok&logoColor=white)](https://projectlombok.org/features)
+[![Microservicios](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microgenetics&logoColor=white)](https://microservices.io/)
 
 + ### 🗄️ Base de Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
 
 + ### ⚙️ Build y Dependencias
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/guides/getting-started/index.html)
 
 + ### 🧪 Testing
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-00C7B7?style=for-the-badge)
+[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/docs/current/user-guide/)
+[![Mockito](https://img.shields.io/badge/Mockito-00C7B7?style=for-the-badge)](https://site.mockito.org/)
 
 + ### 🛠 Herramientas
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://learning.postman.com/)
+
 
 ---
 
