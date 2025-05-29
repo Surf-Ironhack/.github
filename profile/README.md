@@ -7,7 +7,7 @@
 </h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00BFFF&width=700&height=80&lines=Bienvenido+a+nuestro+proyecto+de+surf+desarrollado+en+Ironhack.;%C2%A1Prep%C3%A1rate+para+cabalgar+las+olas+del+c%C3%B3digo!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00BFFF&width=700&height=80&lines=Bienvenido+a+un+proyecto+de+surf+desarrollado+en+Ironhack.;%C2%A1Prep%C3%A1rate+para+cabalgar+las+olas+del+c%C3%B3digo!" alt="Typing Animation" />
 </p>
 
 ---
