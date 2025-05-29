@@ -30,6 +30,9 @@ Se enfoca en construir una arquitectura modular basada en microservicios utiliza
 [![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-data-jpa)
 [![Lombok](https://img.shields.io/badge/Lombok-CA0C19?style=for-the-badge&logo=lombok&logoColor=white)](https://projectlombok.org/features)
 [![Microservicios](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microgenetics&logoColor=white)](https://microservices.io/)
+[![Eureka Server](https://img.shields.io/badge/Eureka%20Server-00A8E8?style=for-the-badge&logo=spring&logoColor=white)](https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-eureka-server.html)
+[![Eureka Client](https://img.shields.io/badge/Eureka%20Client-007ACC?style=for-the-badge&logo=spring&logoColor=white)](https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-eureka-client.html)
+[![OpenFeign](https://img.shields.io/badge/OpenFeign-4B3263?style=for-the-badge&logo=spring&logoColor=white)](https://docs.spring.io/spring-cloud-openfeign/docs/current/reference/html/)
 
 + ### 🗄️ Base de Datos
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
