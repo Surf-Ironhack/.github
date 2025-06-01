@@ -47,6 +47,41 @@ Se enfoca en construir una arquitectura modular basada en microservicios utiliza
 + ### 🛠 Herramientas
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://learning.postman.com/)
 
+---
+
+## 🧭 Endpoints disponibles
+
+### 📘 ClassesController (`/classes`)
+
+| Método | Endpoint                          | Descripción                              |
+|--------|-----------------------------------|------------------------------------------|
+| POST   | `/classes/register`               | Registrar una nueva clase                |
+| DELETE | `/classes/delete/{id}`            | Eliminar una clase por ID                |
+| GET    | `/classes/{id}`                   | Obtener los datos de una clase por ID    |
+| GET    | `/classes/date/{date}`            | Buscar clase por fecha (YYYY-MM-DD)      |
+| PATCH  | `/classes/updateDate/{id}`        | Actualizar la fecha de una clase         |
+
+---
+
+### 📙 MonitorsController (`/monitors`)
+
+| Método | Endpoint                          | Descripción                                              |
+|--------|-----------------------------------|----------------------------------------------------------|
+| POST   | `/monitors/register`              | Registrar un nuevo monitor                               |
+| GET    | `/monitors/{id}`                  | Obtener monitor por ID                                   |
+| GET    | `/monitors/classes/{id}`          | Obtener un monitor junto con su clase relacionada        |
+| PATCH  | `/monitors/{id}`                  | Actualizar el nivel de especialidad de un monitor        |
+| DELETE | `/monitors/delete/{id}`           | Eliminar monitor por ID                                  |
+
+---
+
+### 🌐 Rutas en el Gateway
+
+| Microservicio | Ruta base en Gateway | Servicio destino         |
+|---------------|----------------------|--------------------------|
+| Monitors      | `/monitors/**`       | `lb://monitors-surf`     |
+| Classes       | `/classes/**`        | `lb://class-surf`        |
+
 
 ---
 
