@@ -91,6 +91,8 @@ Se enfoca en construir una arquitectura modular basada en microservicios utiliza
 |----------|------------------|
 | Miguel   | Backend Developer ⚙️ |
 
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="miguelpacheca" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/miguelpacheca?trk=profile-badge">Miguel P.</a></div>
+              
 ---
 
 
